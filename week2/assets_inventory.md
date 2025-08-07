@@ -14,7 +14,8 @@ bash ip a (ip and mac adresses
 - **MAC Address**: 08:00:27:21:6b:22
 - **Interface**: enp0s3
 
-## 📦 Running Services / Ports (To be filled from nmap scan tomorrow)
-- SSH: TBD
+## 📦 Running Services / Ports (Nmap Scan)
+- **22/tcp (SSH)**: OpenSSH 8.x – now detected after enabling the SSH server (shows in ss)
+- No other open ports detected
 - HTTP: TBD
 - Others: TBD
