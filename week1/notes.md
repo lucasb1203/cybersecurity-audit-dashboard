@@ -71,4 +71,7 @@ personal access token (PAT) :
 - Build a second dashboard using Grafana or Splunk Free
 - Compare results from `nmap`, `netstat`, and `ss` for deeper port analysis
 
-8/8 (outline)        
+8/8 (outline)    
+completed all of week 1 in day 1, starting week 2 now
+
+
