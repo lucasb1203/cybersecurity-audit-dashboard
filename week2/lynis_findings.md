@@ -1,10 +1,6 @@
-
----
-
-### **Week 2 – `lynis_findings.md`** (Reformatted & Cleaned)
-```markdown
-# Lynis Security Audit – Week 2 Day 3  
-**Date:** 2025-08-12  
+# Cybersecurity Audit + Dashboard Project – Week 2 Lynis Findings  
+**Date:** 2025-08-07  
+**Day 3 (Week 2)**  
 **GitHub Repository:** [https://github.com/lucasb1203/cybersecurity-audit-dashboard](#)
 
 ---
@@ -32,6 +28,7 @@
 ---
 
 ## 4) Why this matters
+
 Running a baseline audit with Lynis identifies system weaknesses before they are exploited. Remediating these findings will directly increase the hardening index and overall security posture.
 
 ---
